@@ -1,0 +1,15 @@
+path: /mnt/storage/Documents/Minor-Project/edge_uav/data/VisDrone_sample
+train: images/train
+val: images/val
+nc: 10
+names:
+- pedestrian
+- people
+- bicycle
+- car
+- van
+- truck
+- tricycle
+- awning-tricycle
+- bus
+- motor
